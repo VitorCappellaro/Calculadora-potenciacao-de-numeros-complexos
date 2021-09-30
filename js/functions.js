@@ -1,4 +1,5 @@
 window.onload = function(){
+    AOS.init();
     var num1 = $('#numinput');
     var result = undefined;
 
